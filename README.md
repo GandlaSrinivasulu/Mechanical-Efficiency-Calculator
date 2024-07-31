@@ -1,5 +1,6 @@
 # Mechanical-Efficiency-Calculator
 This code is used to find mechanical efficiency.
+
 #Input Parameters
 N = rpm
 T = Torque(NM)
